@@ -1,15 +1,14 @@
-
+![Boston Housing Model - House 1](https://github.com/iroshankumar/Boston-Housing-Ml-model/blob/main/house1.png)
 
 # Boston-Housing-Ml-model
 The Boston house price prediction model is a powerful tool that leverages advanced machine learning techniques to provide accurate and data-driven estimates of property prices in the Boston housing market. It takes into account various features and attributes of houses, neighborhoods, and market conditions to generate reliable predictions.
 A Boston house price prediction model is a machine learning model designed to estimate the market value or selling price of residential properties in the Boston area. This type of model is typically used by real estate professionals, homeowners, and investors to make informed decisions about buying or selling homes. Here is a description of such a model:
 
-Description:
-
-The Boston house price prediction model is a powerful tool that leverages advanced machine learning techniques to provide accurate and data-driven estimates of property prices in the Boston housing market. It takes into account various features and attributes of houses, neighborhoods, and market conditions to generate reliable predictions.
+![Boston Housing Model - House 2](https://github.com/iroshankumar/Boston-Housing-Ml-model/blob/main/house2.png)
 
 Key Features:
 
+![Boston Housing Model - House 3](https://github.com/iroshankumar/Boston-Housing-Ml-model/blob/main/house3.png)
 1. Data Collection and Preprocessing: The model gathers and processes extensive data on past and current property listings in the Boston area. This data includes information on the size of the property, number of bedrooms and bathrooms, location, proximity to amenities, historical sales data, and more.
 
 2. Feature Engineering: The model identifies and extracts relevant features from the dataset, such as square footage, lot size, crime rates, school quality, and transportation access. These features are crucial in understanding the factors that influence property prices.
@@ -24,6 +23,8 @@ Key Features:
 
 7. Error Analysis: The model provides insights into the degree of confidence in its predictions and identifies influential factors that may affect the accuracy of the estimates.
 
+
+![Boston Housing Model - House 4](https://github.com/iroshankumar/Boston-Housing-Ml-model/blob/main/house4.png)
 Benefits:
 
 - Informed Decision-Making: The Boston house price prediction model empowers homebuyers, sellers, and real estate professionals with valuable insights to make well-informed decisions regarding property transactions.
