@@ -1,4 +1,4 @@
-![Boston Housing Model - House 1](https://github.com/iroshankumar/Boston-Housing-Ml-model/blob/main/house1.png)
+
 
 # Boston-Housing-Ml-model
 The Boston house price prediction model is a powerful tool that leverages advanced machine learning techniques to provide accurate and data-driven estimates of property prices in the Boston housing market. It takes into account various features and attributes of houses, neighborhoods, and market conditions to generate reliable predictions.
@@ -38,3 +38,4 @@ Benefits:
 - Risk Mitigation: By considering various factors affecting property values, the model assists in assessing the risks associated with real estate transactions.
 
 Overall, the Boston house price prediction model is a sophisticated tool that harnesses the power of data and machine learning to provide valuable insights and enhance decision-making in the dynamic and competitive Boston real estate market.
+![Boston Housing Model - House 1](https://github.com/iroshankumar/Boston-Housing-Ml-model/blob/main/house1.png)
